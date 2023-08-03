@@ -48,7 +48,7 @@ const Cart = () => {
       <div
         className="absolute bg-neutral-800 bg-opacity-60 h-screen w-full"
         onClick={closeModal}></div>
-      <div className="sm:w-3/6 bg-white p-4 rounded-lg z-30">
+      <div className="sm:w-2/6 bg-white p-4 rounded-lg z-30">
         <button className="" onClick={closeModal}>
           <AiFillCloseCircle className="text-2xl text-yellow-500" />
         </button>
