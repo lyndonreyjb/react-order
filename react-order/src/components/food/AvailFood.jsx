@@ -41,6 +41,46 @@ const FastFoods = [
     image:
       "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
   },
+  {
+    id: "f6",
+    name: "Pepperoni Pizza",
+    description: "Classic pizza topped with pepperoni and cheese",
+    price: 8.99,
+    image:
+      "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+  },
+  {
+    id: "f7",
+    name: "Soda",
+    description: "Refreshing carbonated beverage",
+    price: 1.49,
+    image:
+      "https://images.unsplash.com/photo-1613510213407-be9c70238a9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+  },
+  {
+    id: "f8",
+    name: "Onion Rings",
+    description: "Crispy deep-fried onion rings",
+    price: 3.99,
+    image:
+      "https://images.unsplash.com/photo-1625938146369-adc83368bda7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1025&q=80",
+  },
+  {
+    id: "f9",
+    name: "Ice Cream Sundae",
+    description: "Delightful ice cream topped with chocolate and nuts",
+    price: 4.49,
+    image:
+      "https://plus.unsplash.com/premium_photo-1661427159078-9d85039e99b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+  },
+  {
+    id: "f10",
+    name: "Caesar Salad",
+    description: "Fresh salad with romaine lettuce and Caesar dressing",
+    price: 5.49,
+    image:
+      "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+  },
 ];
 
 const AvailFood = () => {
