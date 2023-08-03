@@ -56,16 +56,8 @@ The `components` folder contains the React components for the project. The `inde
 
 The project includes the following features:
 
-- A list of restaurants
-- A list of foods from each restaurant
-- The ability to order food from a restaurant
+- A list of foods 
+- The ability to order foods
 - The ability to track the status of your order
 
-### Future Improvements
 
-There are a number of ways to improve the project in the future. Some ideas include:
-
-- Adding the ability to pay for orders online
-- Adding the ability to track the delivery of orders
-- Adding the ability to rate restaurants
-- Adding the ability to leave reviews for restaurants
