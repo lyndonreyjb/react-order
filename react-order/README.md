@@ -35,20 +35,6 @@ npm start
 
 This will start the development server on port 3000. You can open the project in your browser by visiting http://localhost:3000.
 
-### Project Structure
-
-The project structure is as follows:
-
-```
-src
-├── components
-│   ├── Food.jsx
-│   ├── Order.jsx
-│   └── Restaurant.jsx
-├── index.jsx
-└── styles
-    └── main.css
-```
 
 The `components` folder contains the React components for the project. The `index.jsx` file is the main entry point for the application. The `styles` folder contains the CSS styles for the project.
 
