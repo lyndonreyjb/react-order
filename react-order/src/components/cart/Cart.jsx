@@ -15,7 +15,7 @@ const Cart = () => {
     cartContext.removeItem(id);
   };
   const cartItems = (
-    <ul className="max-h-64 overflow-y-auto">
+    <ul className="max-h-96 overflow-y-auto">
       {cartContext.items.map((item) => (
         <CartItem
           key={item.id}
@@ -48,7 +48,7 @@ const Cart = () => {
       <div
         className="absolute bg-neutral-800 bg-opacity-60 h-screen w-full"
         onClick={closeModal}></div>
-      <div className="w-96 bg-white p-4 rounded-lg z-30">
+      <div className="sm:w-3/6 bg-white p-4 rounded-lg z-30">
         <button className="" onClick={closeModal}>
           <AiFillCloseCircle className="text-2xl text-yellow-500" />
         </button>
