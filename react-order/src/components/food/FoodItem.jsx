@@ -14,7 +14,7 @@ const FoodItem = (props) => {
     });
   };
   return (
-    <li className="flex w-full list-none p-2 rounded-lg bg-neutral-100">
+    <li className="flex w-full list-none p-2 rounded-lg bg-neutral-50 border-2 shadow-lg">
       <div className="w-full">
         <div className="h-40 w-full overflow-hidden rounded-lg">
           <img

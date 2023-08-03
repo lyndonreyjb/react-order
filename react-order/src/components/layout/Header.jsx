@@ -5,8 +5,8 @@ const Header = () => {
   return (
     <>
       <div className="p-2 flex flex-col w-full max-w-5xl mx-auto">
-        <header className="flex justify-between p-3 w-full">
-          <div className="h-14">
+        <header className="flex w-full">
+          <div className="h-24">
             <img src={logo} className="h-full w-full object-contain" />
           </div>
         </header>
